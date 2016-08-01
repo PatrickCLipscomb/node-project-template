@@ -1,0 +1,38 @@
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.wrap {
+  width: 90%;
+  margin: 0 auto;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  list-style: none;
+}
+
+.card {
+  height: 250px;
+  width: 250px;
+  margin: 2%;
+  border: 2px solid tomato;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: beige;
+}
+
+.card img {
+  width: 200px;
+  height: 200px;
+}
+
+.match {
+  display: block;
+}
