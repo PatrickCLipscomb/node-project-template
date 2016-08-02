@@ -1,0 +1,22 @@
+{
+  "name": "memory",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Patrick Lipscomb"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/PatrickCLipscomb/node-project-memory",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.14.1"
+  }
+}

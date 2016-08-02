@@ -1,10 +1,11 @@
 {
   "name": "memory",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
+    "bower-files": "^3.13.3",
+    "browser-sync": "^2.14.0",
     "browserify": "^13.1.0",
     "del": "^2.2.1",
     "gulp": "^3.9.1",
@@ -19,5 +20,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickCLipscomb/node-project-memory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PatrickCLipscomb/node-project-memory/issues"
+  },
+  "homepage": "https://github.com/PatrickCLipscomb/node-project-memory#readme",
+  "description": ""
 }
