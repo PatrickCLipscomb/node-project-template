@@ -1,4 +1,6 @@
 node_modules/
 .DS_Store
-build
-temp
+bower_components/
+build/
+temp/
+.env
